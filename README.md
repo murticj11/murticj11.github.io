@@ -1,3 +1,3 @@
 # Projects
 
-Here is my [Linkedin!](www.linkedin.com/in/jasminmurtic)
+Here is my [Linkedin!](https://www.linkedin.com/in/jasminmurtic)
