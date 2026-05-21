@@ -4,4 +4,4 @@ This is a diagram of the circuit on the breadboard.
 
 
 
-![Circuit Diagram](FRP(1)Small.png)
+![Circuit Diagram](FRP(1)Medium.png)
